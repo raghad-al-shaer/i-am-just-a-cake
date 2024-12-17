@@ -9,8 +9,8 @@ public class I_am_just_a_cake {
         
         login loginWindows = new login(); 
         loginWindows.show();
-        Color babyPink = new Color(255,218,230);
-        loginWindows.getContentPane().setBackground(babyPink);
+//        Color babyPink = new Color(255,218,230);
+//        loginWindows.getContentPane().setBackground(babyPink);
     }
     
 }

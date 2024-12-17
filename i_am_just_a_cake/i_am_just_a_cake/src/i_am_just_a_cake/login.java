@@ -4,6 +4,8 @@
  */
 package i_am_just_a_cake;
 
+import java.awt.Color;
+
 /**
  *
  * @author MSI
@@ -15,6 +17,7 @@ public class login extends javax.swing.JFrame {
      */
     public login() {
         initComponents();
+           this.getContentPane().setBackground(new Color(255,218,230));
     }
 
     /**
