@@ -11,10 +11,10 @@ public class I_am_just_a_cake {
         // TODO code application logic here
 //        EmployeeDashboard e = new EmployeeDashboard();
 //        e.show();
-        login loginWindows = new login(); 
-        loginWindows.show();
-//        Color babyPink = new Color(255,218,230);
-//        loginWindows.getContentPane().setBackground(babyPink);
+//        login loginWindows = new login(); 
+//        loginWindows.show();
+    Test t=new Test();
+    t.show();
     }
     
 }
